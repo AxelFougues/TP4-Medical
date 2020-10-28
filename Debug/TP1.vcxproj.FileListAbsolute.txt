@@ -1,0 +1,4 @@
+C:\Users\Az\Desktop\info\TP1\Debug\TP1.exe
+C:\Users\Az\Desktop\info\TP1\Debug\TP1.pdb
+C:\Users\Az\Desktop\TP1\Debug\TP1.exe
+C:\Users\Az\Desktop\TP1\Debug\TP1.pdb
